@@ -1,7 +1,7 @@
 # unit-testing-mocha-nodejs
 Unit testing for test driven development using mochajs and node.js
 
-#Installation
+# Instructions
 - Clone repository
 - Open terminal in the local repository
 - ``npm init`` to initialize
