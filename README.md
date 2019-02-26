@@ -1,4 +1,4 @@
-# unit-testing-mocha-nodejs
+# Unit testing with Mocha and Node.js 
 Unit testing for test driven development using mochajs and node.js
 
 # Instructions
